@@ -3,7 +3,7 @@ title: Hello World, Willamis Silva
 date: "2015-05-01T22:12:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Esse é meu primeiro Blog Estático!
 
 I'm sure I'll write a lot more interesting things in the future.
 
